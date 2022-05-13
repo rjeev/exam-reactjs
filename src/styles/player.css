@@ -1,0 +1,12 @@
+.rhap_progress-section {
+  display: none !important;
+}
+.rhap_additional-controls {
+  display: none !important;
+}
+.rhap_volume-controls {
+  display: none !important;
+}
+.rhap_container {
+  width: 20%;
+}
